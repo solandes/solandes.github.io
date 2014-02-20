@@ -28,10 +28,7 @@ Your Public Site
   <li>Your link here:<a href="https://www.facebook.com/shannon.landes">Link</a> </li>
   <li>Add another item to the bottom of this list!</li>
   <li>Read about <a href="http://www.quackit.com/html/tags/">other HTML tags</a> and use one here that hasn't been used yet!</li>
- 
-  <p><font face="cursive,serif" color="#ff9900" size="4"> this is my font</font></p>
-
-  
+  <li><p>This is my subscript <sub>Shannon O Landes</sub></p>.</li>
 </li>
   
 </ol>
