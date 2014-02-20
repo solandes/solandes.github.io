@@ -3,8 +3,6 @@ Solandes.github.io
 
 Your Public Site
 
-To get started, open the index.html file to find instructions and examples. You'll start your editing there!
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -30,7 +28,10 @@ To get started, open the index.html file to find instructions and examples. You'
   <li>Your link here:<a href="https://www.facebook.com/shannon.landes">Link</a> </li>
   <li>Add another item to the bottom of this list!</li>
   <li>Read about <a href="http://www.quackit.com/html/tags/">other HTML tags</a> and use one here that hasn't been used yet!</li>
-  <li><p><font face="cursive,serif" color="#ff9900" size="4">This is my special font</font></p>
+ 
+  <p><font face="cursive,serif" color="#ff9900" size="4"> this is my font</font></p>
+
+  
 </li>
   
 </ol>
