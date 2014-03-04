@@ -1,7 +1,7 @@
 Solandes.github.io
 =====================
 Shannon Landes
-Your Public Site
+Public Site
 
 ### Exercise One
 - Bold some text
